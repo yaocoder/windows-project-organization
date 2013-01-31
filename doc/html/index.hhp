@@ -1,0 +1,95 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=My Project
+
+[WINDOWS]
+main="My Project","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_tiny_xml_wrapper_2_common_2stdafx_8h_source.html
+_unit_test_2stdafx_8h_source.html
+_tiny_xml_wrapper_2_common_2targetver_8h_source.html
+_unit_test_2targetver_8h_source.html
+tinystr_8h_source.html
+tinyxml_8h_source.html
+tinyxml__wrapper_8h_source.html
+path__utils_8h_source.html
+utils_8h_source.html
+path__utils_8h.html
+deprecated.html
+class_ti_xml_attribute.html
+class_ti_xml_attribute-members.html
+class_ti_xml_attribute_set.html
+class_ti_xml_attribute_set-members.html
+class_ti_xml_base.html
+class_ti_xml_base-members.html
+class_ti_xml_comment.html
+class_ti_xml_comment-members.html
+struct_ti_xml_cursor.html
+struct_ti_xml_cursor-members.html
+class_ti_xml_declaration.html
+class_ti_xml_declaration-members.html
+class_ti_xml_document.html
+class_ti_xml_document-members.html
+class_ti_xml_element.html
+class_ti_xml_element-members.html
+class_ti_xml_handle.html
+class_ti_xml_handle-members.html
+class_ti_xml_node.html
+class_ti_xml_node-members.html
+class_ti_xml_out_stream.html
+class_ti_xml_out_stream-members.html
+class_ti_xml_parsing_data.html
+class_ti_xml_parsing_data-members.html
+class_ti_xml_printer.html
+class_ti_xml_printer-members.html
+class_ti_xml_string.html
+class_ti_xml_string-members.html
+class_ti_xml_text.html
+class_ti_xml_text-members.html
+class_ti_xml_unknown.html
+class_ti_xml_unknown-members.html
+class_ti_xml_visitor.html
+class_ti_xml_visitor-members.html
+class_xml_operate_1_1_c_tiny_xml_wrapper.html
+class_xml_operate_1_1_c_tiny_xml_wrapper-members.html
+index.html
+pages.html
+annotated.html
+classes.html
+hierarchy.html
+functions.html
+functions_func.html
+functions_vars.html
+functions_enum.html
+files.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+class_ti_xml_attribute.png
+class_ti_xml_base.png
+class_ti_xml_comment.png
+class_ti_xml_declaration.png
+class_ti_xml_document.png
+class_ti_xml_element.png
+class_ti_xml_node.png
+class_ti_xml_out_stream.png
+class_ti_xml_printer.png
+class_ti_xml_string.png
+class_ti_xml_text.png
+class_ti_xml_unknown.png
+class_ti_xml_visitor.png
